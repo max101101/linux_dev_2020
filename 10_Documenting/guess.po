@@ -1,0 +1,56 @@
+# Russian translations for guess package
+# Английские переводы для пакета guess.
+# Copyright (C) 2020 THE guess'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the guess package.
+# Automatically generated, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: guess 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-22 22:58+0300\n"
+"PO-Revision-Date: 2020-11-16 22:19+0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: guess.c:54
+msgid ""
+"Usage:\n"
+"\tguess [options]\n"
+"Options:\n"
+"\t-r              Use Roman numerals\n"
+"\t-h | --help\tShow this message\n"
+"\n"
+msgstr ""
+"Использование:\n"
+"\tguess [опции]\n"
+"Опции:\n"
+"\t-r    Использовать римские цифры\n"
+"\t-h | --help\tПоказать это сообщение\n"
+"\n"
+
+#: guess.c:86
+msgid "Guess a number in range"
+msgstr "Загадайте число в промежутке"
+
+#: guess.c:91
+msgid "You Guessed"
+msgstr "Вы загадали"
+
+#: guess.c:95
+msgid "Is your number bigger than"
+msgstr "Ваше число больше чем"
+
+#: guess.c:95 guess.c:99
+msgid "yes"
+msgstr "да"
+
+#: guess.c:95 guess.c:104
+msgid "no"
+msgstr "нет"
